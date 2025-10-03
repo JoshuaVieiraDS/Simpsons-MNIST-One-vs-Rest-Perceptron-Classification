@@ -1,5 +1,5 @@
 ### About ###
-We will be classifying the Simpson's MNIST data using an RGB and Grayscale one-vs-rest perceptron classification appraoch. In addition, we will evaluate the results and compare RGB against Grayscale. To get the notebook to work, you might just have to fiddle around with the path to the respective RGB and Grayscale datasets.
+We will be classifying the Simpson's MNIST data using an RGB and Grayscale one-vs-rest perceptron classification appraoch. In addition, we will evaluate the results and compare RGB against Grayscale. To get the notebook to work, unzip the rgb and grayscale files. You might just have to fiddle around with the path to the respective RGB and Grayscale datasets.
 
 ### Features ###
 - Grid Search over
@@ -28,3 +28,4 @@ We will be classifying the Simpson's MNIST data using an RGB and Grayscale one-v
 - matplotlib
 
 - scikit-learn for the confusion matrix
+
